@@ -1,3 +1,17 @@
+# Archivo temporal del README (generado cuando se está editando)
+*.md.swp
+
+# NetBeans specific
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+manifest.mf
+build.xml
+
 # Compiled class file
 *.class
 
@@ -21,3 +35,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Presentacion/nbproject/private/
